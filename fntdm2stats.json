@@ -329,6 +329,45 @@
             }
         ]
     },
+    "Withered Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://122840170050016",
+        "Rarity": "Mythic",
+        "PlacePrice": 1100,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 90,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 1600,
+                "Range": 25,
+                "Damage": 130,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 2000,
+                "Range": 30,
+                "Damage": 130,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 2400,
+                "Range": 30,
+                "Damage": 130,
+                "Cooldown": 1.3
+            }
+        ]
+    },
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://122840170050016",
