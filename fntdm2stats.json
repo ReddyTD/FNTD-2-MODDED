@@ -155,6 +155,45 @@
             }
         ]
     },
+    "Undead Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://134007034705550",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 80,
+                "Cooldown": 4
+            },
+            {
+                "Price": 800,
+                "Range": 27,
+                "Damage": 90,
+                "Cooldown": 4
+            },
+            {
+                "Price": 950,
+                "Range": 29,
+                "Damage": 100,
+                "Cooldown": 4
+            },
+            {
+                "Price": 1400,
+                "Range": 31,
+                "Damage": 120,
+                "Cooldown": 4
+            }
+        ]
+    },
     "PaperPals": {
         "Type": "Single",
         "Image": "rbxassetid://72400983395431",
