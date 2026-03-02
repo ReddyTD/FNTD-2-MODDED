@@ -194,6 +194,45 @@
             }
         ]
     },
+    "JJ": {
+        "Type": "Single",
+        "Image": "rbxassetid://70722815308793",
+        "Rarity": "Rare",
+        "PlacePrice": 500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 35,
+                "Cooldown": 2
+            },
+            {
+                "Price": 750,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1150,
+                "Range": 22,
+                "Damage": 50,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1400,
+                "Range": 28,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "PaperPals": {
         "Type": "Single",
         "Image": "rbxassetid://72400983395431",
@@ -368,6 +407,45 @@
             }
         ]
     },
+    "Shadow Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://82484270991649",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 385,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 430,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 455,
+                "Cooldown": 2.6
+            }
+        ]
+    },
     "Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://132271627014074",
@@ -404,6 +482,45 @@
                 "Range": 30,
                 "Damage": 130,
                 "Cooldown": 1.3
+            }
+        ]
+    },
+    "Endo 01": {
+        "Type": "Single",
+        "Image": "rbxassetid://75743185572224",
+        "Rarity": "Mythic",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 125,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1350,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 2500,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 2
             }
         ]
     },
