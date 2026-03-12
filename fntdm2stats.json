@@ -564,10 +564,10 @@
         ]
     },
     "Party Glock Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://104418067731043",
+        "Type": "Explosion",
+        "Image": "rbxassetid://120316005972938",
         "Rarity": "Secret",
-        "PlacePrice": 450,
+        "PlacePrice": 750,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -578,36 +578,36 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 43.6
             },
             {
-                "Price": 900,
-                "Range": 3,
+                "Price": 1000,
+                "Range": 24,
                 "Damage": 1,
-                "Cooldown": 4
+                "Cooldown": 3.6
             },
             {
-                "Price": 2000,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Price": 2500,
+                "Range": 26,
+                "Damage": 220,
+                "Cooldown": 3.2
             },
             {
-                "Price": 3250,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Price": 4000,
+                "Range": 27,
+                "Damage": 260,
+                "Cooldown": 3.2
             }
         ]
     },
     "Party Packer": {
-        "Type": "AOE",
-        "Image": "rbxassetid://104418067731043",
+        "Type": "Explosion",
+        "Image": "rbxassetid://132749102809989",
         "Rarity": "Secret",
-        "PlacePrice": 450,
-        "Max": 3,
+        "PlacePrice": 1000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -617,27 +617,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 2.2
             },
             {
-                "Price": 900,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 240,
+                "Cooldown": 2.2
             },
             {
-                "Price": 2000,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Price": 2600,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 2
             },
             {
-                "Price": 3250,
-                "Range": 3,
-                "Damage": 1,
-                "Cooldown": 4
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 2
             }
         ]
     },
